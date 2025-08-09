@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+ripser
+scikit-tda
+networkx
+seaborn
+jupyter
+yfinance  # optional, only if you will fetch real data
