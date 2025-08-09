@@ -1,2 +1,3 @@
-# tda-finance-demo
-Topological data analysis (persistence diagrams) on rolling correlation networks
+# Tiny TDA Demo for Financial Time Series
+
+See `tda_demo.ipynb`.
